@@ -1,8 +1,8 @@
 {
   "name": "reactlatest-app",
   "version": "0.1.0",
-  "private": true, 
-  "homepage": "https://akshaya-vc.github.io/React-Monster-Rolodex",
+  "private": true,
+  "homepage": "https://akshaya-vc.github.io/React-Monster_Rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
