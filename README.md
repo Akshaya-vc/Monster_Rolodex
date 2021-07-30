@@ -1,5 +1,4 @@
 # Monster_Rolodex
-
 Displays contacts in cute cards (ft.monsters profile) :)
 
 ### Built using
